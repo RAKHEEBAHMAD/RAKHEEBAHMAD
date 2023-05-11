@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node JS ,React JS**
 
-- 👨‍💻 All of my projects are available at [rakheeb.me](rakheeb.me)
+- 👨‍💻 All of my projects are available at [rakheeb.me](https://rakheeb.me/)
 
 - 💬 Ask me about **Frontend Development**
 
