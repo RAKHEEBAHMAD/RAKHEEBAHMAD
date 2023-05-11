@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350" title="hover text">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350" alt="accessibility text">
 </p>
 
