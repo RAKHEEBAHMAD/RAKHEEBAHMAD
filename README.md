@@ -2,8 +2,8 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="center">
-  <img src="[your_relative_path_here](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)" width="350" title="hover text">
-  <img src="[your_relative_path_here_number_2_large_name](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)" width="350" alt="accessibility text">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350" title="hover text">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350" alt="accessibility text">
 </p>
 
 - 🔭 I’m currently working on **URL Shortner**
