@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **rakheeb1905@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BpBZcTzmY43sQ3jZb69ZhaNOOl-l97yc/view](https://drive.google.com/file/d/1BpBZcTzmY43sQ3jZb69ZhaNOOl-l97yc/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BpBZcTzmY43sQ3jZb69ZhaNOOl-l97yc/view)
 
-- ⚡ Fun fact **Introvert Here!!**
+- ⚡ Caution **Introvert Here!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
